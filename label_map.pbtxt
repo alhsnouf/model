@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'juice'
+}
+
+item {
+  id: 2
+  name: 'laban'
+}
+
+item {
+  id: 3
+  name: 'yoghurt'
+}
+
+item {
+  id: 4
+  name: 'egg'
+}
+
+item {
+  id: 5
+  name: 'caramel'
+}
